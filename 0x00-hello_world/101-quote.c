@@ -2,8 +2,8 @@
 #include <unistd.h>
 
 /**
- * main - This prints some define strings of character
- * return: return 1
+ * main-entry point for the program.
+ * Return:0 if no errors, return non zero if errors.
  */
 
 int main(void)
