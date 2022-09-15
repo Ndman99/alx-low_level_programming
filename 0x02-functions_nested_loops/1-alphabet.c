@@ -6,7 +6,7 @@
  * Return: Always 0
  */
 
-Return void print_alphabet(void)
+Return; void print_alphabet(void)
 
 {
 	char letter;
